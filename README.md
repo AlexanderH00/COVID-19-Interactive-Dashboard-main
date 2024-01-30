@@ -22,7 +22,7 @@ An interactive web dashboard for visualizing and analyzing up-to-date COVID-19 d
 To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository:**
-git clone https://github.com/OkeahDavid/COVID-19-Interactive-Dashboard.git
+git clone https://github.com/AlexanderH00/COVID-19-Interactive-Dashboard-main.git
 
 3. **Navigate to the project directory:**
 cd COVID-19-Interactive-Dashboard
